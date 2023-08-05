@@ -4,6 +4,7 @@ Github account as some Achievement badges. and a every single badge on GitHub, a
 
 # 🥇 Obtainable Achievements
 
+
 The achievements listed below are ones that you can obtain:
 | Name | Badge Image | Earnable? | Earned By | Difficulty |
 | --- | --- | --- | --- | --- |
